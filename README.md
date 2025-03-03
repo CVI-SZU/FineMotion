@@ -11,4 +11,4 @@ FineMotion provides strictly aligned, fine-grained descriptions of human body pa
 
 ## Dataset
   
-We released our dataset in the author's official repository, please visit [FineMotion_release](https://github.com/BizhuWu/FineMotion).
+The dataset can be found in [FineMotion_release](https://github.com/BizhuWu/FineMotion).
